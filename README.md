@@ -90,41 +90,53 @@ End Sub
 ### Funkcie a Vzorce (Formulas)
 Medián čísel v zozname
 Medián je stredná hodnota zoradeného rozsahu čísel
+```
 =MEDIAN(A2:A7)	
+```
 
 #### Umocnenie čísla
+```
 =POWER(5,2)	Vypočíta druhú mocninu čísla 5 (25)
 =5^3	Vypočíta tretiu mocninu čísla 5 (125
+```
 
 #### Opakovanie znakov v bunke
-=REPT(".";6)	Opakovanie obdobia (.) 6-krát (......)
-=REPT("-";4)	Opakovanie pomlčky (-) 4-krát (----)  
+=REPT(".";6)	Opakovanie obdobia (.) 6-krát (......)  
+=REPT("-";4)	Opakovanie pomlčky (-) 4-krát (----)    
 
 #### Spájanie Funkcií a Logické Funkcie
-=AND(A2>A3; A2<A4)	Je číslo 15 väčšie ako 9 a menšie ako 8? (FALSE)
-=OR(A2>A3; A2<A4)	Je číslo 15 väčšie ako 9 alebo menšie ako 8? (TRUE)
-=NOT(A2+A3=24)	Nie je súčet 15 plus 9 rovný 24? (FALSE)
+```
+=AND(A2>A3; A2<A4)	Je číslo 15 väčšie ako 9 a menšie ako 8? (FALSE)  
+=OR(A2>A3; A2<A4)	Je číslo 15 väčšie ako 9 alebo menšie ako 8? (TRUE)  
+=NOT(A2+A3=24)	Nie je súčet 15 plus 9 rovný 24? (FALSE)  
+```
 
-=IF(A2=15; "OK"; "Nie OK")	Ak sa hodnota v bunke A2 rovná 15, vráť hodnotu "OK". (OK)
-=IF(AND(A2>A3; A2<A4); "OK"; "Nie OK")	Ak je číslo 15 väčšie ako 9 a menšie ako 8, vráť hodnotu "OK". (Nie OK)
-=IF(OR(A2>A3; A2<A4); "OK"; "Nie OK")	Ak je číslo 15 väčšie ako 9 alebo menšie ako 8, vráť hodnotu "OK". (OK)
+```
+=IF(A2=15; "OK"; "Nie OK")	Ak sa hodnota v bunke A2 rovná 15, vráť hodnotu "OK". (OK)  
+=IF(AND(A2>A3; A2<A4); "OK"; "Nie OK")	Ak je číslo 15 väčšie ako 9 a menšie ako 8, vráť hodnotu "OK". (Nie OK)  
+=IF(OR(A2>A3; A2<A4); "OK"; "Nie OK")	Ak je číslo 15 väčšie ako 9 alebo menšie ako 8, vráť hodnotu "OK". (OK)  
 
-=IF(A3>89;"A";IF(A3>79;"B";IF(A3>69;"C";IF(A3>59;"D";"F"))))
+=IF(A3>89;"A";IF(A3>79;"B";IF(A3>69;"C";IF(A3>59;"D";"F"))))  
+```
 
-#### Vyhľadávacie Funkcie
-Zhoda
+#### Vyhľadávacie Funkcie  
+Zhoda  
 Presne (exact match): 0, False 
-Približne: 1, True, Nič
-0 nie je nič Null
+Približne: 1, True, Nič  
+0 nie je nič Null  
 
-=IFNA(VLOOKUP(TRIM(C15);B7:C13;2;0); "Nepracuje u nás")
-="Q"&VLOOKUP(B25;$E$25:$G$28;3;1)
+```
+=IFNA(VLOOKUP(TRIM(C15);B7:C13;2;0); "Nepracuje u nás")  
+="Q"&VLOOKUP(B25;$E$25:$G$28;3;1)  
+```
 
 #### Čistenie Dát
-abs(VALUE(clean(trim(F15))))
+```
+abs(VALUE(clean(trim(F15))))  
+```
 
 ## Typy Súborov/Rozšírení Microsoft Excel
-XLSX (Textové)
-XLSM (Textové)
-XLS (Binárne)
-XLSB (Binárne)
+**XLSX (Textové) **
+XLSM (Textové)  
+XLS (Binárne)  
+**XLSB (Binárne)**  
