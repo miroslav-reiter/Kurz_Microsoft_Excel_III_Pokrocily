@@ -16,6 +16,7 @@
 ## 💡 Snippety
 ### 🗔 Zobraz Prehľadové Okno s Hárkami 
 ```vb
+Sub WbTab()
 ' Zobraz Prehľadové Okno s Hárkami (Taby)
     Application.CommandBars("Workbook tabs").ShowPopup
 End Sub
