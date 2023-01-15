@@ -153,7 +153,7 @@ abs(VALUE(clean(trim(F15))))
 ```
 
 ## Typy Súborov/Rozšírení Microsoft Excel
-**XLSX (Textové **
-XLSM (Textové)  
-XLS (Binárne)  
-**XLSB (Binárne)**  
+1. **XLSX (Textové)**  
+2. XLSM (Textové)  
+3 XLS (Binárne)  
+4. **XLSB (Binárne)**  
