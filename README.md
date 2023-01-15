@@ -13,6 +13,15 @@
 
 ## 📔 Dokumentácia Microsoft Excel a Guidelines
 
+## Obsah
+### Microsoft Excel má 3 typy Hárkov (Sheets)
+1. **Pracovný Hárok (Worksheet) (Shift + F11)**
+2. Makro Hárok (Macro Sheet) (Ctrl + F11)
+3. Grafový Hárok (Graph Sheet) (F11)
+
+![harky](https://user-images.githubusercontent.com/24510943/212564384-aa4f4b9a-1b41-419b-b67a-6b5dfa0053cc.png)
+
+
 ## 💡 Snippety
 ### 🗔 Zobraz Prehľadové Okno s Hárkami 
 ```vb
