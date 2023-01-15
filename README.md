@@ -47,6 +47,10 @@ Dostupné na GitHube alebo na kurze od lektora
 * Hromadné Vkladanie, Generovanie Hodnôt (Ctrl + Enter)
 * Kopírovanie Formátu Metlička (2-klik na metlu)
 
+### 📋 Tabuľky a Rýchla Analýza Dát
+* Vytvorenie Tabuľky (Ctrl + T, Ctrl + Shift + L)
+* Rýchla Analýza Dát/Quick Analysis (Ctrl + Q)
+
 ## 💡 Snippety
 ### 🗔 Zobraz Prehľadové Okno s Hárkami 
 ```vb
