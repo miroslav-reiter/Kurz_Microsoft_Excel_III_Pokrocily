@@ -35,6 +35,9 @@ Dostupné na GitHube alebo na kurze od lektora
 4. [Microsoft Excel functions (alphabetical)](https://support.microsoft.com/en-us/office/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188)
 5. [The Ultimate Guide to Using Microsoft Excel](https://blog.hubspot.com/marketing/microsoft-excel)
 
+## 📈 YouTube video záznamy z kurzy a prednášok Playlist (Kancelárske Balíky)
+[YouTube kanál IT Academy](https://www.youtube.com/watch?v=6nbo18YVf5g&list=PLIu_ZdHo7Pk-rY_6wVj108Dmff67eQWRG)
+
 ## 📎Obsah Kurzu
 ### 📑 Microsoft Excel má 3 typy Hárkov (Sheets)
 1. **Pracovný Hárok (Worksheet) (Shift + F11)**
