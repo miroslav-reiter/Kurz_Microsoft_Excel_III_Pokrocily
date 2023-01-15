@@ -1,2 +1,3 @@
-# Kurz_Microsoft_Excel_III_Pokrocily
-Materiály ku kurzu
+# 📋 Kurz Microsoft Excel III. Pokročilý
+
+[Kurz Microsoft Excel III. Pokročilý](https://www.it-academy.sk/kurz/microsoft-excel-iii-pokrocily/) je pre teba vhodný, ak máš skúsenosti s Excelom alebo si absolvoval kurz Microsoft Excel II. Mierne pokročilý. Naučíme ťa modifikovať používateľské rozhranie a markantne urýchliť svoju prácu. Osvojíš si zabezpečenie dát v tabuľkách, tvorbu formulárov či vyhľadávacie funkcie tzv. lookupy. Tvorba reportov bude pre teba samozrejmosťou. Ako absolvent kurzu Microsoft Excel III. Pokročilý zvládneš pokročilé analýzy dát, prácu s maticami či kontingenčnými tabuľkami.
