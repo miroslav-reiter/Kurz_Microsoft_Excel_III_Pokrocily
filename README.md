@@ -6,7 +6,7 @@
 Microsoft Excel je **tabuľkový procesor od** spoločnosti Microsoft navrhnutý pre operačný systém **Microsoft Windows**, **Mac Os**, **Android** a **iO**S. Je súčasťou **kancelárskeho balíka Microsoft Office** spolu s aplikáciami Microsoft Word, Microsoft PowerPoint, Microsoft Outlook, Microsoft Access atď.
 
 ## 🙋 Verzie a edície Microsoft Excel
-Najaktuálnešia/najnovšia verzia je verzia **Microsoft Excel 365 (Office 365)**. Na trhu sú aj standalone verzie : 2000, 2002, 2003, 2007, 2010, 2013, 2016, 2019
+Najaktuálnešia/najnovšia verzia je **Microsoft Excel 365 (Office 365)**. Na trhu sú aj standalone verzie: 2000, 2002, 2003, 2007, 2010, 2013, 2016, 2019
 
 **TIP:** Verzie zistíme na Karte Domov (Home) > Konto (Account) > Čo je Excel
 ![verzia](https://user-images.githubusercontent.com/24510943/212565132-3a9892b7-d660-4e8e-b883-45794a06fc50.png)
