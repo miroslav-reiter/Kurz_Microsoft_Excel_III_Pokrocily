@@ -16,7 +16,8 @@ Najaktuálnešia/najnovšia verzia je verzia **Microsoft Excel 365 (Office 365)*
 [Prezenčné Kurzy Microsoft Excel](https://www.it-academy.sk/kategoria/kancelarske-baliky/kurzy-excel/)  
 [Online Kurzy Microsoft Excel](https://www.vita.sk/?s=excel)  
 
-## 📁 Súbory a materiály na kurze od lektora 
+## 📁 Súbory a Materiály
+Dostupné na GitHube alebo na kurze od lektora
 
 ## 🧰 Stránky a nástroje na precvičovanie Microsoft Excel
 1. [Microsoft 365](https://www.microsoft.com/sk-sk/microsoft-365/excel)
@@ -28,6 +29,11 @@ Najaktuálnešia/najnovšia verzia je verzia **Microsoft Excel 365 (Office 365)*
 7. [FinStat Najväčšie univerzity](https://finstat.sk/databaza-neziskoviek?sort=revenue-desc&tab=revenue&legalform=382)
 
 ## 📔 Dokumentácia Microsoft Excel a Guidelines
+1. [Microsoft Excel help & learning](https://support.microsoft.com/en-us/excel)
+2. [Premium templates](https://templates.office.com/en-us/premium-templates)
+3. [Analyze Data in Microsoft Excel](https://support.microsoft.com/en-us/office/analyze-data-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4)
+4. [Microsoft Excel functions (alphabetical)](https://support.microsoft.com/en-us/office/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188)
+5. [The Ultimate Guide to Using Microsoft Excel](https://blog.hubspot.com/marketing/microsoft-excel)
 
 ## 📎Obsah Kurzu
 ### 📑 Microsoft Excel má 3 typy Hárkov (Sheets)
