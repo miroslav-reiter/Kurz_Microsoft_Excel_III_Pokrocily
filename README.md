@@ -150,9 +150,9 @@ B. Približne: 1, True, Nič
 ```
 
 #### Čistenie Dát
-TRIM - Odstráňovanie medzier/Neviditeľné symboly
-CLEAN - Odstráňovanie netlačiteľných symboly
-VALUE - Konverzia Textu na Číselnú Hodnotu
+TRIM - Odstráňovanie medzier/Neviditeľné symboly  
+CLEAN - Odstráňovanie netlačiteľných symboly  
+VALUE - Konverzia Textu na Číselnú Hodnotu  
 ```
 ABC(VALUE(CLEAN(TRIM(F15))))  
 ```
