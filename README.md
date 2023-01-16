@@ -135,10 +135,11 @@ Medián je stredná hodnota zoradeného rozsahu čísel
 ```
 
 #### Vyhľadávacie Funkcie  
-Zhoda  
-Presne (exact match): 0, False 
-Približne: 1, True, Nič  
-0 nie je nič Null  
+Typ zhody  
+A. Presne (exact match): 0, False   
+B. Približne: 1, True, Nič 
+
+0 nie je nič Null   
 
 ```
 =IFNA(VLOOKUP(TRIM(C15);B7:C13;2;0); "Nepracuje u nás")  
