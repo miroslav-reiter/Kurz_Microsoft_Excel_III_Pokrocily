@@ -55,14 +55,14 @@ Dostupné na GitHube alebo na kurze od lektora
 * Vytvorenie Tabuľky (Ctrl + T, Ctrl + Shift + L)
 
 * Rýchla Analýza Dát/Quick Analysis (Ctrl + Q)
-Ako nepomenovávať:
+**Ako nepomenovávať:**
 1. Ziadne neviditelne symbol t.j. bez medzier
 2. Nezacinas cislo...
 3. Nestandardne € / * @ $ ^ & # # + - 
 4. Bez diakritiky
 5. Nie genericke nazvy tabulka1
 
-Ako pomenovať:
+**Ako pomenovať:**
 1. Madarska notacia/zapis
 > tab
 > t
@@ -150,7 +150,7 @@ B. Približne: 1, True, Nič
 
 #### Čistenie Dát
 ```
-abs(VALUE(clean(trim(F15))))  
+ABC(VALUE(CLENA(TRIM(F15))))  
 ```
 
 ## Typy Súborov/Rozšírení Microsoft Excel
