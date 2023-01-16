@@ -57,25 +57,25 @@ Dostupné na GitHube alebo na kurze od lektora
 * Rýchla Analýza Dát/Quick Analysis (Ctrl + Q)  
 
 **Ako nepomenovávať:**
-1. Ziadne neviditelne symbol t.j. bez medzier
-2. Nezacinas cislo...
-3. Nestandardne € / * @ $ ^ & # # + - 
+1. Žiadne neviditeľné symboly t.j. bez medzier/tabov
+2. Nezačínaš číslom
+3. Neštandardné znaky € / * @ $ ^ & # + - 
 4. Bez diakritiky
-5. Nie genericke nazvy tabulka1
+5. Nie generické názvy tabulka1
 
 **Ako pomenovať:**
-1. Madarska notacia/zapis
+1. **Maďarská notácia/zápis**
 > tab
 > t
 > dim
 > d
-> tMzdyZamestnanciZima2019
+> tMzdyZamestnanciZima2023
 
-2. Tavia notacia/zapis
-> klientiLeto2018
+2. **Ťavia notácia/zápis**
+> klientiLeto2023
 
-3. Podciarkovnikova notacia 
-> klienti_leto_2018
+3. **Podčiarkovniková notácia/zápis** 
+> klienti_leto_2023
 
 **TIP**: KROLA
 
@@ -89,13 +89,13 @@ End Sub
 ```
 
 ### Funkcie a Vzorce (Formulas)
-Medián čísel v zozname
-Medián je stredná hodnota zoradeného rozsahu čísel
+#### MEDIAN - Štatistická Funkcia - Stredná hodnota  
+Medián čísel v rozsahu buniek. Medián je stredná hodnota zoradeného rozsahu čísel
 ```
 =MEDIAN(A2:A7)	
 ```
 
-#### Umocnenie čísla
+####  POWER - Matematická Funkcia - Umocnenie čísla 
 ```
 =POWER(5,2)	Vypočíta druhú mocninu čísla 5 (25)
 ```
@@ -103,7 +103,7 @@ Medián je stredná hodnota zoradeného rozsahu čísel
 =5^3	Vypočíta tretiu mocninu čísla 5 (125
 ```
 
-#### Opakovanie znakov v bunke
+#### REPT - Matematická Funkcia - Opakovanie znakov v bunke
 ```
 =REPT(".";6)	Opakovanie obdobia (.) 6-krát (......)  
 ```
@@ -111,7 +111,7 @@ Medián je stredná hodnota zoradeného rozsahu čísel
 =REPT("-";4)	Opakovanie pomlčky (-) 4-krát (----)    
 ```
 
-#### Spájanie Funkcií a Logické Funkcie
+#### AND, OR, NOT, IF - Logické Funkcie - Spájanie Funkcií
 ```
 =AND(A2>A3; A2<A4)	Je číslo 15 väčšie ako 9 a menšie ako 8? (FALSE)  
 ```
