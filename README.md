@@ -55,6 +55,7 @@ Dostupné na GitHube alebo na kurze od lektora
 * Vytvorenie Tabuľky (Ctrl + T, Ctrl + Shift + L)
 
 * Rýchla Analýza Dát/Quick Analysis (Ctrl + Q)  
+
 **Ako nepomenovávať:**
 1. Ziadne neviditelne symbol t.j. bez medzier
 2. Nezacinas cislo...
