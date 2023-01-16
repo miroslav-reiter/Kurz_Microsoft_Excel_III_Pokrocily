@@ -47,14 +47,14 @@ Dostupné na GitHube alebo na kurze od lektora
 
 ![harky](https://user-images.githubusercontent.com/24510943/212564384-aa4f4b9a-1b41-419b-b67a-6b5dfa0053cc.png)
 
-### 🔥 Duplikácia a Kopírovanie Formátu
-* Hromadné Vkladanie, Generovanie Hodnôt (Ctrl + Enter)
-* Kopírovanie Formátu Metlička (2-klik na metlu)
+### 🔥 Duplikácia a Kopírovanie Formátu  
+* Hromadné Vkladanie, Generovanie Hodnôt (Ctrl + Enter)  
+* Kopírovanie Formátu Metlička (2-klik na metlu)  
 
 ### 📋 Tabuľky a Rýchla Analýza Dát
 * Vytvorenie Tabuľky (Ctrl + T, Ctrl + Shift + L)
 
-* Rýchla Analýza Dát/Quick Analysis (Ctrl + Q)
+* Rýchla Analýza Dát/Quick Analysis (Ctrl + Q)  
 **Ako nepomenovávať:**
 1. Ziadne neviditelne symbol t.j. bez medzier
 2. Nezacinas cislo...
